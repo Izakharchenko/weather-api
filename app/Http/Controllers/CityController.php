@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\StoreCityRequest;
 use App\Http\Requests\UpdateCityRequest;
+use App\Http\Resources\CityResource;
 use App\Models\City;
 
 class CityController extends Controller
@@ -13,7 +14,9 @@ class CityController extends Controller
      */
     public function index()
     {
-        //
+        $cities = City::select('id', 'name')->get();
+
+        return CityResource::collection($cities);
     }
 
     /**
