@@ -10,4 +10,9 @@ class City extends Model
     use HasFactory;
 
     protected $fillable = ['name', 'lat', 'lon'];
+
+    protected $casts = [
+        'lat' => 'double',
+        'lon' => 'double',
+    ];
 }

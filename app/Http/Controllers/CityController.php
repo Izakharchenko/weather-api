@@ -14,7 +14,7 @@ class CityController extends Controller
      */
     public function index()
     {
-        $cities = City::select('id', 'name')->get();
+        $cities = City::select('id', 'name', 'lat', 'lon')->get();
 
         return CityResource::collection($cities);
     }
