@@ -1,0 +1,962 @@
+[
+  {
+    "date": "2023-01-01",
+    "temperature": -5,
+    "wind_speed": 4.5,
+    "clouds": 20,
+    "humidity": 70,
+    "pressure": 1016
+  },
+  {
+    "date": "2023-01-02",
+    "temperature": -3,
+    "wind_speed": 5.2,
+    "clouds": 30,
+    "humidity": 75,
+    "pressure": 1015
+  },
+  {
+    "date": "2023-01-03",
+    "temperature": -2,
+    "wind_speed": 4.8,
+    "clouds": 40,
+    "humidity": 80,
+    "pressure": 1014
+  },
+  {
+    "date": "2023-01-04",
+    "temperature": -4,
+    "wind_speed": 4.3,
+    "clouds": 25,
+    "humidity": 72,
+    "pressure": 1017
+  },
+  {
+    "date": "2023-01-05",
+    "temperature": -6,
+    "wind_speed": 5.5,
+    "clouds": 35,
+    "humidity": 78,
+    "pressure": 1018
+  },
+  {
+    "date": "2023-01-06",
+    "temperature": -7,
+    "wind_speed": 4.9,
+    "clouds": 22,
+    "humidity": 68,
+    "pressure": 1016
+  },
+  {
+    "date": "2023-01-07",
+    "temperature": -8,
+    "wind_speed": 5.7,
+    "clouds": 28,
+    "humidity": 71,
+    "pressure": 1015
+  },
+  {
+    "date": "2023-01-08",
+    "temperature": -9,
+    "wind_speed": 6.2,
+    "clouds": 15,
+    "humidity": 65,
+    "pressure": 1014
+  },
+  {
+    "date": "2023-01-09",
+    "temperature": -10,
+    "wind_speed": 5.8,
+    "clouds": 18,
+    "humidity": 70,
+    "pressure": 1013
+  },
+  {
+    "date": "2023-01-10",
+    "temperature": -11,
+    "wind_speed": 6.5,
+    "clouds": 20,
+    "humidity": 72,
+    "pressure": 1012
+  },
+  {
+    "date": "2023-01-11",
+    "temperature": -9,
+    "wind_speed": 5.3,
+    "clouds": 25,
+    "humidity": 68,
+    "pressure": 1015
+  },
+  {
+    "date": "2023-01-12",
+    "temperature": -7,
+    "wind_speed": 4.7,
+    "clouds": 30,
+    "humidity": 75,
+    "pressure": 1016
+  },
+  {
+    "date": "2023-01-13",
+    "temperature": -6,
+    "wind_speed": 5.1,
+    "clouds": 28,
+    "humidity": 72,
+    "pressure": 1017
+  },
+  {
+    "date": "2023-01-14",
+    "temperature": -5,
+    "wind_speed": 4.9,
+    "clouds": 32,
+    "humidity": 70,
+    "pressure": 1018
+  },
+  {
+    "date": "2023-01-15",
+    "temperature": -3,
+    "wind_speed": 5.6,
+    "clouds": 26,
+    "humidity": 68,
+    "pressure": 1019
+  },
+  {
+    "date": "2023-01-16",
+    "temperature": -2,
+    "wind_speed": 6.3,
+    "clouds": 22,
+    "humidity": 66,
+    "pressure": 1020
+  },
+  {
+    "date": "2023-01-17",
+    "temperature": -1,
+    "wind_speed": 6.8,
+    "clouds": 18,
+    "humidity": 64,
+    "pressure": 1019
+  },
+  {
+    "date": "2023-01-18",
+    "temperature": -3,
+    "wind_speed": 5.7,
+    "clouds": 30,
+    "humidity": 68,
+    "pressure": 1018
+  },
+  {
+    "date": "2023-01-19",
+    "temperature": -4,
+    "wind_speed": 5.4,
+    "clouds": 35,
+    "humidity": 70,
+    "pressure": 1017
+  },
+  {
+    "date": "2023-01-20",
+    "temperature": -5,
+    "wind_speed": 4.9,
+    "clouds": 38,
+    "humidity": 72,
+    "pressure": 1016
+  },
+  {
+    "date": "2023-01-21",
+    "temperature": -6,
+    "wind_speed": 4.5,
+    "clouds": 40,
+    "humidity": 74,
+    "pressure": 1015
+  },
+  {
+    "date": "2023-01-22",
+    "temperature": -7,
+    "wind_speed": 4.2,
+    "clouds": 42,
+    "humidity": 76,
+    "pressure": 1014
+  },
+  {
+    "date": "2023-01-23",
+    "temperature": -8,
+    "wind_speed": 4.8,
+    "clouds": 37,
+    "humidity": 78,
+    "pressure": 1013
+  },
+  {
+    "date": "2023-01-24",
+    "temperature": -9,
+    "wind_speed": 5.3,
+    "clouds": 33,
+    "humidity": 80,
+    "pressure": 1012
+  },
+  {
+    "date": "2023-01-25",
+    "temperature": -10,
+    "wind_speed": 5.9,
+    "clouds": 29,
+    "humidity": 82,
+    "pressure": 1011
+  },
+  {
+    "date": "2023-01-26",
+    "temperature": -11,
+    "wind_speed": 6.5,
+    "clouds": 25,
+    "humidity": 84,
+    "pressure": 1010
+  },
+  {
+    "date": "2023-01-27",
+    "temperature": -12,
+    "wind_speed": 7.1,
+    "clouds": 20,
+    "humidity": 86,
+    "pressure": 1009
+  },
+  {
+    "date": "2023-01-28",
+    "temperature": -13,
+    "wind_speed": 7.7,
+    "clouds": 18,
+    "humidity": 88,
+    "pressure": 1008
+  },
+  {
+    "date": "2023-01-29",
+    "temperature": -14,
+    "wind_speed": 8.3,
+    "clouds": 15,
+    "humidity": 90,
+    "pressure": 1007
+  },
+  {
+    "date": "2023-01-30",
+    "temperature": -15,
+    "wind_speed": 8.9,
+    "clouds": 12,
+    "humidity": 92,
+    "pressure": 1006
+  },
+  {
+    "date": "2023-01-31",
+    "temperature": -16,
+    "wind_speed": 9.5,
+    "clouds": 10,
+    "humidity": 94,
+    "pressure": 1005
+  }, 
+  {
+      "date": "2023-02-01",
+      "temperature": -6,
+      "wind_speed": 4.1,
+      "clouds": 40,
+      "humidity": 75,
+      "pressure": 1013
+    },
+    {
+      "date": "2023-02-02",
+      "temperature": -5,
+      "wind_speed": 4.3,
+      "clouds": 35,
+      "humidity": 72,
+      "pressure": 1014
+    },
+    {
+      "date": "2023-02-03",
+      "temperature": -4,
+      "wind_speed": 4.5,
+      "clouds": 30,
+      "humidity": 70,
+      "pressure": 1015
+    },
+    {
+      "date": "2023-02-04",
+      "temperature": -3,
+      "wind_speed": 4.7,
+      "clouds": 25,
+      "humidity": 68,
+      "pressure": 1016
+    },
+    {
+      "date": "2023-02-05",
+      "temperature": -2,
+      "wind_speed": 4.9,
+      "clouds": 20,
+      "humidity": 66,
+      "pressure": 1017
+    },
+    {
+      "date": "2023-02-06",
+      "temperature": -1,
+      "wind_speed": 5.1,
+      "clouds": 15,
+      "humidity": 64,
+      "pressure": 1018
+    },
+    {
+      "date": "2023-02-07",
+      "temperature": 0,
+      "wind_speed": 5.3,
+      "clouds": 10,
+      "humidity": 62,
+      "pressure": 1019
+    },
+    {
+      "date": "2023-02-08",
+      "temperature": 1,
+      "wind_speed": 5.5,
+      "clouds": 5,
+      "humidity": 60,
+      "pressure": 1020
+    },
+    {
+      "date": "2023-02-09",
+      "temperature": 2,
+      "wind_speed": 5.7,
+      "clouds": 0,
+      "humidity": 58,
+      "pressure": 1021
+    },
+    {
+      "date": "2023-02-10",
+      "temperature": 1,
+      "wind_speed": 5.5,
+      "clouds": 5,
+      "humidity": 60,
+      "pressure": 1020
+    },
+    {
+      "date": "2023-02-11",
+      "temperature": 0,
+      "wind_speed": 5.3,
+      "clouds": 10,
+      "humidity": 62,
+      "pressure": 1019
+    },
+    {
+      "date": "2023-02-12",
+      "temperature": -1,
+      "wind_speed": 5.1,
+      "clouds": 15,
+      "humidity": 64,
+      "pressure": 1018
+    },
+    {
+      "date": "2023-02-13",
+      "temperature": -2,
+      "wind_speed": 4.9,
+      "clouds": 20,
+      "humidity": 66,
+      "pressure": 1017
+    },
+    {
+      "date": "2023-02-14",
+      "temperature": -3,
+      "wind_speed": 4.7,
+      "clouds": 25,
+      "humidity": 68,
+      "pressure": 1016
+    },
+    {
+      "date": "2023-02-15",
+      "temperature": -4,
+      "wind_speed": 4.5,
+      "clouds": 30,
+      "humidity": 70,
+      "pressure": 1015
+    },
+    {
+      "date": "2023-02-16",
+      "temperature": -5,
+      "wind_speed": 4.3,
+      "clouds": 35,
+      "humidity": 72,
+      "pressure": 1014
+    },
+    {
+      "date": "2023-02-17",
+      "temperature": -6,
+      "wind_speed": 4.1,
+      "clouds": 40,
+      "humidity": 75,
+      "pressure": 1013
+    },
+    {
+      "date": "2023-02-18",
+      "temperature": -7,
+      "wind_speed": 3.9,
+      "clouds": 45,
+      "humidity": 78,
+      "pressure": 1012
+    },
+    {
+      "date": "2023-02-19",
+      "temperature": -8,
+      "wind_speed": 3.7,
+      "clouds": 50,
+      "humidity": 80,
+      "pressure": 1011
+    },
+    {
+      "date": "2023-02-20",
+      "temperature": -9,
+      "wind_speed": 3.5,
+      "clouds": 55,
+      "humidity": 82,
+      "pressure": 1010
+    },
+    {
+      "date": "2023-02-21",
+      "temperature": -10,
+      "wind_speed": 3.3,
+      "clouds": 60,
+      "humidity": 84,
+      "pressure": 1009
+    },
+    {
+      "date": "2023-02-22",
+      "temperature": -11,
+      "wind_speed": 3.1,
+      "clouds": 65,
+      "humidity": 86,
+      "pressure": 1008
+    },
+    {
+      "date": "2023-02-23",
+      "temperature": -12,
+      "wind_speed": 2.9,
+      "clouds": 70,
+      "humidity": 88,
+      "pressure": 1007
+    },
+    {
+      "date": "2023-02-24",
+      "temperature": -13,
+      "wind_speed": 2.7,
+      "clouds": 75,
+      "humidity": 90,
+      "pressure": 1006
+    },
+    {
+      "date": "2023-02-25",
+      "temperature": -14,
+      "wind_speed": 2.5,
+      "clouds": 80,
+      "humidity": 92,
+      "pressure": 1005
+    },
+    {
+      "date": "2023-02-26",
+      "temperature": -15,
+      "wind_speed": 2.3,
+      "clouds": 85,
+      "humidity": 94,
+      "pressure": 1004
+    },
+    {
+      "date": "2023-02-27",
+      "temperature": -16,
+      "wind_speed": 2.1,
+      "clouds": 90,
+      "humidity": 96,
+      "pressure": 1003
+    },
+    {
+      "date": "2023-02-28",
+      "temperature": -17,
+      "wind_speed": 1.9,
+      "clouds": 95,
+      "humidity": 98,
+      "pressure": 1002
+    },
+    {
+      "date": "2023-03-01",
+      "temperature": 3,
+      "wind_speed": 5.2,
+      "clouds": 30,
+      "humidity": 65,
+      "pressure": 1012
+    },
+    {
+      "date": "2023-03-02",
+      "temperature": 4,
+      "wind_speed": 5.4,
+      "clouds": 28,
+      "humidity": 63,
+      "pressure": 1011
+    },
+    {
+      "date": "2023-03-03",
+      "temperature": 5,
+      "wind_speed": 5.6,
+      "clouds": 25,
+      "humidity": 61,
+      "pressure": 1010
+    },
+    {
+      "date": "2023-03-04",
+      "temperature": 6,
+      "wind_speed": 5.8,
+      "clouds": 23,
+      "humidity": 59,
+      "pressure": 1009
+    },
+    {
+      "date": "2023-03-05",
+      "temperature": 7,
+      "wind_speed": 6.0,
+      "clouds": 20,
+      "humidity": 57,
+      "pressure": 1008
+    },
+    {
+      "date": "2023-03-06",
+      "temperature": 8,
+      "wind_speed": 6.2,
+      "clouds": 18,
+      "humidity": 55,
+      "pressure": 1007
+    },
+    {
+      "date": "2023-03-07",
+      "temperature": 9,
+      "wind_speed": 6.4,
+      "clouds": 15,
+      "humidity": 53,
+      "pressure": 1006
+    },
+    {
+      "date": "2023-03-08",
+      "temperature": 10,
+      "wind_speed": 6.6,
+      "clouds": 13,
+      "humidity": 51,
+      "pressure": 1005
+    },
+    {
+      "date": "2023-03-09",
+      "temperature": 11,
+      "wind_speed": 6.8,
+      "clouds": 10,
+      "humidity": 49,
+      "pressure": 1004
+    },
+    {
+      "date": "2023-03-10",
+      "temperature": 12,
+      "wind_speed": 7.0,
+      "clouds": 8,
+      "humidity": 47,
+      "pressure": 1003
+    },
+    {
+      "date": "2023-03-11",
+      "temperature": 13,
+      "wind_speed": 7.2,
+      "clouds": 5,
+      "humidity": 45,
+      "pressure": 1002
+    },
+    {
+      "date": "2023-03-12",
+      "temperature": 14,
+      "wind_speed": 7.4,
+      "clouds": 3,
+      "humidity": 43,
+      "pressure": 1001
+    },
+    {
+      "date": "2023-03-13",
+      "temperature": 15,
+      "wind_speed": 7.6,
+      "clouds": 2,
+      "humidity": 41,
+      "pressure": 1000
+    },
+    {
+      "date": "2023-03-14",
+      "temperature": 16,
+      "wind_speed": 7.8,
+      "clouds": 1,
+      "humidity": 39,
+      "pressure": 999
+    },
+    {
+      "date": "2023-03-15",
+      "temperature": 17,
+      "wind_speed": 8.0,
+      "clouds": 0,
+      "humidity": 37,
+      "pressure": 998
+    },
+    {
+      "date": "2023-03-16",
+      "temperature": 18,
+      "wind_speed": 8.2,
+      "clouds": 0,
+      "humidity": 35,
+      "pressure": 997
+    },
+    {
+      "date": "2023-03-17",
+      "temperature": 19,
+      "wind_speed": 8.4,
+      "clouds": 0,
+      "humidity": 33,
+      "pressure": 996
+    },
+    {
+      "date": "2023-03-18",
+      "temperature": 20,
+      "wind_speed": 8.6,
+      "clouds": 0,
+      "humidity": 31,
+      "pressure": 995
+    },
+    {
+      "date": "2023-03-19",
+      "temperature": 21,
+      "wind_speed": 8.8,
+      "clouds": 0,
+      "humidity": 29,
+      "pressure": 994
+    },
+    {
+      "date": "2023-03-20",
+      "temperature": 22,
+      "wind_speed": 9.0,
+      "clouds": 0,
+      "humidity": 27,
+      "pressure": 993
+    },
+    {
+      "date": "2023-03-21",
+      "temperature": 23,
+      "wind_speed": 9.2,
+      "clouds": 0,
+      "humidity": 25,
+      "pressure": 992
+    },
+    {
+      "date": "2023-03-22",
+      "temperature": 24,
+      "wind_speed": 9.4,
+      "clouds": 0,
+      "humidity": 23,
+      "pressure": 991
+    },
+    {
+      "date": "2023-03-23",
+      "temperature": 25,
+      "wind_speed": 9.6,
+      "clouds": 0,
+      "humidity": 21,
+      "pressure": 990
+    },
+    {
+      "date": "2023-03-24",
+      "temperature": 26,
+      "wind_speed": 9.8,
+      "clouds": 0,
+      "humidity": 19,
+      "pressure": 989
+    },
+    {
+      "date": "2023-03-25",
+      "temperature": 27,
+      "wind_speed": 10.0,
+      "clouds": 0,
+      "humidity": 17,
+      "pressure": 988
+    },
+    {
+      "date": "2023-03-26",
+      "temperature": 28,
+      "wind_speed": 10.2,
+      "clouds": 0,
+      "humidity": 15,
+      "pressure": 987
+    },
+    {
+      "date": "2023-03-27",
+      "temperature": 29,
+      "wind_speed": 10.4,
+      "clouds": 0,
+      "humidity": 13,
+      "pressure": 986
+    },
+    {
+      "date": "2023-03-28",
+      "temperature": 30,
+      "wind_speed": 10.6,
+      "clouds": 0,
+      "humidity": 11,
+      "pressure": 985
+    },
+    {
+      "date": "2023-03-29",
+      "temperature": 31,
+      "wind_speed": 10.8,
+      "clouds": 0,
+      "humidity": 9,
+      "pressure": 984
+    },
+    {
+      "date": "2023-03-30",
+      "temperature": 32,
+      "wind_speed": 11.0,
+      "clouds": 0,
+      "humidity": 7,
+      "pressure": 983
+    },
+    {
+      "date": "2023-03-31",
+      "temperature": 33,
+      "wind_speed": 11.2,
+      "clouds": 0,
+      "humidity": 5,
+      "pressure": 982
+    },
+    {
+      "date": "2023-04-01",
+      "temperature": 5,
+      "wind_speed": 6.2,
+      "clouds": 25,
+      "humidity": 60,
+      "pressure": 1010
+    },
+    {
+      "date": "2023-04-02",
+      "temperature": 6,
+      "wind_speed": 6.4,
+      "clouds": 23,
+      "humidity": 58,
+      "pressure": 1009
+    },
+    {
+      "date": "2023-04-03",
+      "temperature": 7,
+      "wind_speed": 6.6,
+      "clouds": 20,
+      "humidity": 56,
+      "pressure": 1008
+    },
+    {
+      "date": "2023-04-04",
+      "temperature": 8,
+      "wind_speed": 6.8,
+      "clouds": 18,
+      "humidity": 54,
+      "pressure": 1007
+    },
+    {
+      "date": "2023-04-05",
+      "temperature": 9,
+      "wind_speed": 7.0,
+      "clouds": 15,
+      "humidity": 52,
+      "pressure": 1006
+    },
+    {
+      "date": "2023-04-06",
+      "temperature": 10,
+      "wind_speed": 7.2,
+      "clouds": 13,
+      "humidity": 50,
+      "pressure": 1005
+    },
+    {
+      "date": "2023-04-07",
+      "temperature": 11,
+      "wind_speed": 7.4,
+      "clouds": 10,
+      "humidity": 48,
+      "pressure": 1004
+    },
+    {
+      "date": "2023-04-08",
+      "temperature": 12,
+      "wind_speed": 7.6,
+      "clouds": 8,
+      "humidity": 46,
+      "pressure": 1003
+    },
+    {
+      "date": "2023-04-09",
+      "temperature": 13,
+      "wind_speed": 7.8,
+      "clouds": 7,
+      "humidity": 44,
+      "pressure": 1002
+    },
+    {
+      "date": "2023-04-10",
+      "temperature": 14,
+      "wind_speed": 8.0,
+      "clouds": 5,
+      "humidity": 42,
+      "pressure": 1001
+    },
+    {
+      "date": "2023-04-11",
+      "temperature": 15,
+      "wind_speed": 8.2,
+      "clouds": 4,
+      "humidity": 40,
+      "pressure": 1000
+    },
+    {
+      "date": "2023-04-12",
+      "temperature": 16,
+      "wind_speed": 8.4,
+      "clouds": 3,
+      "humidity": 38,
+      "pressure": 999
+    },
+    {
+      "date": "2023-04-13",
+      "temperature": 17,
+      "wind_speed": 8.6,
+      "clouds": 2,
+      "humidity": 36,
+      "pressure": 998
+    },
+    {
+      "date": "2023-04-14",
+      "temperature": 18,
+      "wind_speed": 8.8,
+      "clouds": 1,
+      "humidity": 34,
+      "pressure": 997
+    },
+    {
+      "date": "2023-04-15",
+      "temperature": 19,
+      "wind_speed": 9.0,
+      "clouds": 0,
+      "humidity": 32,
+      "pressure": 996
+    },
+    {
+      "date": "2023-04-16",
+      "temperature": 20,
+      "wind_speed": 9.2,
+      "clouds": 0,
+      "humidity": 30,
+      "pressure": 995
+    },
+    {
+      "date": "2023-04-17",
+      "temperature": 21,
+      "wind_speed": 9.4,
+      "clouds": 0,
+      "humidity": 28,
+      "pressure": 994
+    },
+    {
+      "date": "2023-04-18",
+      "temperature": 22,
+      "wind_speed": 9.6,
+      "clouds": 0,
+      "humidity": 26,
+      "pressure": 993
+    },
+    {
+      "date": "2023-04-19",
+      "temperature": 23,
+      "wind_speed": 9.8,
+      "clouds": 0,
+      "humidity": 24,
+      "pressure": 992
+    },
+    {
+      "date": "2023-04-20",
+      "temperature": 24,
+      "wind_speed": 10.0,
+      "clouds": 0,
+      "humidity": 22,
+      "pressure": 991
+    },
+    {
+      "date": "2023-04-21",
+      "temperature": 25,
+      "wind_speed": 10.2,
+      "clouds": 0,
+      "humidity": 20,
+      "pressure": 990
+    },
+    {
+      "date": "2023-04-22",
+      "temperature": 26,
+      "wind_speed": 10.4,
+      "clouds": 0,
+      "humidity": 18,
+      "pressure": 989
+    },
+    {
+      "date": "2023-04-23",
+      "temperature": 25,
+      "wind_speed": 10.6,
+      "clouds": 0,
+      "humidity": 16,
+      "pressure": 988
+    },
+    {
+      "date": "2023-04-24",
+      "temperature": 21,
+      "wind_speed": 10.8,
+      "clouds": 0,
+      "humidity": 14,
+      "pressure": 987
+    },
+    {
+      "date": "2023-04-25",
+      "temperature": 21,
+      "wind_speed": 11.0,
+      "clouds": 0,
+      "humidity": 12,
+      "pressure": 986
+    },
+    {
+      "date": "2023-04-26",
+      "temperature": 22,
+      "wind_speed": 11.2,
+      "clouds": 0,
+      "humidity": 10,
+      "pressure": 985
+    },
+    {
+      "date": "2023-04-27",
+      "temperature": 25,
+      "wind_speed": 11.4,
+      "clouds": 0,
+      "humidity": 8,
+      "pressure": 984
+    },
+    {
+      "date": "2023-04-28",
+      "temperature": 23,
+      "wind_speed": 11.6,
+      "clouds": 0,
+      "humidity": 6,
+      "pressure": 983
+    },
+    {
+      "date": "2023-04-29",
+      "temperature": 21,
+      "wind_speed": 11.8,
+      "clouds": 0,
+      "humidity": 4,
+      "pressure": 982
+    },
+    {
+      "date": "2023-04-30",
+      "temperature": 20,
+      "wind_speed": 12.0,
+      "clouds": 0,
+      "humidity": 2,
+      "pressure": 981
+    }    
+]
