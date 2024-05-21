@@ -23,7 +23,7 @@ class UserController extends Controller
 
         $token = $user->createToken('user')->plainTextToken;
 
-        return response()->json(['token' => $token]);
+        return response()->json(['token' => $token, 'user' => $user]);
     }
 
     public function login(LoginRequest $request)
@@ -40,7 +40,7 @@ class UserController extends Controller
 
         $token = $user->createToken('user')->plainTextToken;
 
-        return response()->json(['token' => $token]);
+        return response()->json(['token' => $token, 'user' => $user]);
     }
 
     public function logout(Request $request)
