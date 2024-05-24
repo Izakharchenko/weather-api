@@ -12,12 +12,21 @@ class Weather extends Model
     protected $table = 'weather';
 
     protected $fillable = [
-        'data',
+        'date',
         'city_id',
         'temperature',
         'wind_speed',
         'clouds',
         'humidity',
         'pressure'
+    ];
+
+    protected $casts = [
+        'date' => 'date',
+        'temperature' => 'int',
+        'wind_speed' => 'float',
+        'clouds' => 'int',
+        'humidity' => 'int',
+        'pressure' => 'int',
     ];
 }
