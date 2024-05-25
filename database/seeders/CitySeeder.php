@@ -15,17 +15,17 @@ class CitySeeder extends Seeder
     {
         DB::table('cities')->insert([
             [
-                'name' => 'Суми',
+                'name' => 'Sumy',
                 'lat' => 50.911944,
                 'lon' => 34.803333,
             ],
             [
-                'name' => 'Чернігів',
+                'name' => 'Chernihiv',
                 'lat' => 51.491111,
                 'lon' => 31.298611,
             ],
             [
-                'name' => 'Харків',
+                'name' => 'Kharkiv',
                 'lat' => 50.005833,
                 'lon' => 36.229167,
             ]
