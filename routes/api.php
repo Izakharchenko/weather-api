@@ -17,9 +17,9 @@ Route::prefix('v1')->group(function () {
             return $request->user();
         });
 
-        Route::apiResource('cities', CityController::class);
+        Route::apiResource('cities', CityController::class)->only(['index', 'show']);
 
-        Route::apiResource('weather', WeatherController::class);
+        Route::apiResource('weather', WeatherController::class)->only(['index', 'show']);
         Route::get('cities/{city_id}/weather', [WeatherController::class, 'getByCityAndDateRange'])->name('weather.by_city_and_dates');
     });
 });
